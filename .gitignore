@@ -1,0 +1,7 @@
+# Arquivo .gitignore
+
+# Ignorar o diretório .history
+.history/
+
+# Ignorar o diretório .vscode
+.vscode/
